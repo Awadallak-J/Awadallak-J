@@ -1,4 +1,4 @@
-## **Bem-vindo ao meu perfil**  👋
+## **Bem-vindo ao meu perfil**🇧🇷 
 
 
 **Awadallak-J/Awadallak-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
