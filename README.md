@@ -8,7 +8,7 @@ Meu nome é Jamal Awadallak
   
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### Você pode entrar em contato comigo 📧
+- ### Você pode entrar em contato comigo 📫
 
 - Jamal.awadallak@escola.pr.gov.br
 
